@@ -1,0 +1,4 @@
+Solar panels convert sunlight into electricity using photovoltaic cells.
+AI can optimize energy consumption in smart grids by predicting demand patterns.
+Renewable energy sources, such as wind and solar, reduce carbon emissions.
+Smart energy management systems use AI to balance power distribution efficiently.
